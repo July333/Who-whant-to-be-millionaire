@@ -1,80 +1,100 @@
 [{
-    "q": "מידת הרעש נמדדת ב",
+    "q": "The Earth is approximately how many miles away from the Sun?",
     "a": [{
-            "aText": "מיקרו קול",
+            "aText": "9.3 million",
             "isTrue": false
         },
         {
-            "aText": "דציבלים",
+            "aText": "39 million",
+            "isTrue": false
+        },
+        {
+            "aText": "93 million",
             "isTrue": true
         },
         {
-            "aText": "סיסמוגרף",
-            "isTrue": false
-        },
-        {
-            "aText": "גלי קול",
+            "aText": "193 million",
             "isTrue": false
         }
     ]
 },
 {
-    "q": "הנחל המזוהם ביותר בארץ הוא", 
+    "q": "Which of the following men does not have a chemical element named for him?", 
     "a": [{
-            "aText": "נחל אלכסנדר",
+            "aText": "Albert Einstein",
             "isTrue": false
         },
         {
-            "aText": "נחל הירקון",
+            "aText": "Niels Bohr",
             "isTrue": false
         },
         {
-            "aText": "נחל הקישון",
+            "aText": "Isaac Newton",
             "isTrue": true
         },
         {
-            "aText": "נחל תנינים",
+            "aText": "Enrico Fermi",
             "isTrue": false
         }
     ]
 },
 {
-    "q": "זיהום אוויר נוצר מ",
+    "q": "In the children’s book series, where is Paddington Bear originally from?",
     "a": [{
-            "aText":"קרינה רדיואקטבית",
+            "aText":"India",
             "isTrue": false
         },
         {
-            "aText": "רסס- ים",
-            "isTrue": false
-        },
-        {
-            "aText": "שרפת דלק",
+            "aText":"Peru",
             "isTrue": true
         },
         {
-            "aText": "חלקיקים באוויר",
+            "aText": "Canada",
+            "isTrue": false
+        },
+        {
+            "aText": "Iceland",
             "isTrue": false
         }
     ]
 },
 {
-    "q": "אמנת ברצלונה נחתמה בשנת",
+    "q": "Neurologists believe that the brain's medial ventral prefrontal cortex is activated when you do what?",
     "a": [{
-            "aText": "1990",
+            "aText":"Have a panic attack",
             "isTrue": false
         },
         {
-            "aText": "1971",
+            "aText":"Remember a name",
             "isTrue": false
         },
         {
-            "aText": "1960",
-            "isTrue": false
-        },
-        {
-            "aText": "1988",
+            "aText": "Get a joke",
             "isTrue": true
+        },
+        {
+            "aText": "Listen to music",
+            "isTrue": false
+        }
+    ]
+},
+{
+    "q": "The song 'God Bless America' was originally written for what 1918 musical?",
+    "a": [{
+            "aText": "Oh Lady! Lady!!",
+            "isTrue": false
+        },
+        {
+            "aText": "Yip, Yip, Yaphank",
+            "isTrue": true
+        },
+        {
+            "aText": "Blossom Time",
+            "isTrue": false
+        },
+        {
+            "aText": "Watch Your Step",
+            "isTrue": false
         }
     ]
 }]
